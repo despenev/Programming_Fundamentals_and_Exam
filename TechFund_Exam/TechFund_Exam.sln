@@ -1,11 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "four", "TechFund_Exam\four.csproj", "{B5AD01C6-908F-470D-BA17-A82D36D89770}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon_Dont_Go", "one\Pokemon_Dont_Go.csproj", "{E6B91D51-1297-44F6-84E3-7669FAF1670E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two", "two\two.csproj", "{0DCC5F30-6938-4606-BEF7-CAEF979CEBF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke_Mon", "three\Poke_Mon.csproj", "{DBF06F28-5EE3-4AE1-BD5A-0C2D90654D00}"
 EndProject
@@ -15,18 +11,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B5AD01C6-908F-470D-BA17-A82D36D89770}.Debug|x86.ActiveCfg = Debug|x86
-		{B5AD01C6-908F-470D-BA17-A82D36D89770}.Debug|x86.Build.0 = Debug|x86
-		{B5AD01C6-908F-470D-BA17-A82D36D89770}.Release|x86.ActiveCfg = Release|x86
-		{B5AD01C6-908F-470D-BA17-A82D36D89770}.Release|x86.Build.0 = Release|x86
 		{E6B91D51-1297-44F6-84E3-7669FAF1670E}.Debug|x86.ActiveCfg = Debug|x86
 		{E6B91D51-1297-44F6-84E3-7669FAF1670E}.Debug|x86.Build.0 = Debug|x86
 		{E6B91D51-1297-44F6-84E3-7669FAF1670E}.Release|x86.ActiveCfg = Release|x86
 		{E6B91D51-1297-44F6-84E3-7669FAF1670E}.Release|x86.Build.0 = Release|x86
-		{0DCC5F30-6938-4606-BEF7-CAEF979CEBF9}.Debug|x86.ActiveCfg = Debug|x86
-		{0DCC5F30-6938-4606-BEF7-CAEF979CEBF9}.Debug|x86.Build.0 = Debug|x86
-		{0DCC5F30-6938-4606-BEF7-CAEF979CEBF9}.Release|x86.ActiveCfg = Release|x86
-		{0DCC5F30-6938-4606-BEF7-CAEF979CEBF9}.Release|x86.Build.0 = Release|x86
 		{DBF06F28-5EE3-4AE1-BD5A-0C2D90654D00}.Debug|x86.ActiveCfg = Debug|x86
 		{DBF06F28-5EE3-4AE1-BD5A-0C2D90654D00}.Debug|x86.Build.0 = Debug|x86
 		{DBF06F28-5EE3-4AE1-BD5A-0C2D90654D00}.Release|x86.ActiveCfg = Release|x86
