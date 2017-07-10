@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Endurance_Race", "03_Endurance_Race\03_Endurance_Race.csproj", "{9BDB88D1-7395-4638-BF30-6F71B24829A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negurmi", "negurmi\negurmi.csproj", "{C4CCA93D-8E58-4126-9110-E35449FC9E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni_Karaoke", "Softuni_Karaoke\Softuni_Karaoke.csproj", "{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDB88D1-7395-4638-BF30-6F71B24829A6}.Debug|x86.ActiveCfg = Debug|x86
+		{9BDB88D1-7395-4638-BF30-6F71B24829A6}.Debug|x86.Build.0 = Debug|x86
+		{9BDB88D1-7395-4638-BF30-6F71B24829A6}.Release|x86.ActiveCfg = Release|x86
+		{9BDB88D1-7395-4638-BF30-6F71B24829A6}.Release|x86.Build.0 = Release|x86
+		{C4CCA93D-8E58-4126-9110-E35449FC9E40}.Debug|x86.ActiveCfg = Debug|x86
+		{C4CCA93D-8E58-4126-9110-E35449FC9E40}.Debug|x86.Build.0 = Debug|x86
+		{C4CCA93D-8E58-4126-9110-E35449FC9E40}.Release|x86.ActiveCfg = Release|x86
+		{C4CCA93D-8E58-4126-9110-E35449FC9E40}.Release|x86.Build.0 = Release|x86
+		{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}.Debug|x86.ActiveCfg = Debug|x86
+		{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}.Debug|x86.Build.0 = Debug|x86
+		{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}.Release|x86.ActiveCfg = Release|x86
+		{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

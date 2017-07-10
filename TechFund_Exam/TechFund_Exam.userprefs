@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DBF06F28-5EE3-4AE1-BD5A-0C2D90654D00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="three/Program.cs">
+    <Files>
+      <File FileName="TechFund_Exam/Program.cs" Line="1" Column="14" />
+      <File FileName="one/Program.cs" Line="8" Column="6" />
+      <File FileName="two/Program.cs" Line="1" Column="1" />
+      <File FileName="three/Program.cs" Line="29" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechFund_Exam" expanded="True">
+            <Node name="four" expanded="True" />
+            <Node name="Poke_Mon" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Pokemon_Dont_Go" expanded="True" />
+            <Node name="two" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.four PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pokemon__Dont__Go PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Poke__Mon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

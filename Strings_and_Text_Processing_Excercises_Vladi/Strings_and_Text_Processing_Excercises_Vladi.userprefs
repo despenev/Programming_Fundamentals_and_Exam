@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B7412CE8-3F63-4FED-8DCE-DF0D177F1D2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2/Program.cs">
+    <Files>
+      <File FileName="Strings_and_Text_Processing_Excercises_Vladi/Program.cs" Line="5" Column="19" />
+      <File FileName="2/Program.cs" Line="26" Column="3" />
+      <File FileName="4/Program.cs" Line="1" Column="1" />
+      <File FileName="8/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strings_and_Text_Processing_Excercises_Vladi" expanded="True">
+            <Node name="2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="4" expanded="True" />
+            <Node name="8" expanded="True" />
+            <Node name="Strings_and_Text_Processing_Excercises_Vladi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Strings__and__Text__Processing__Excercises__Vladi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

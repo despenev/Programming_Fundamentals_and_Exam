@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2EDEB1AF-ECAC-4C58-93E1-8BB8CDA2106C}|Default">
+  <MonoDevelop.Ide.ItemProperties.letters-in-txt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="letters-in-txt/Program.cs">
+    <Files>
+      <File FileName="letters-in-txt/Program.cs" Line="23" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/Program.cs" relfile="letters-in-txt/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

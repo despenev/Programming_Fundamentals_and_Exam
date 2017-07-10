@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/4/bin/Debug/4.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/4/bin/Debug/4.pdb
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/4/obj/x86/Debug/RegexMon.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/4/obj/x86/Debug/4.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/4/obj/x86/Debug/4.pdb

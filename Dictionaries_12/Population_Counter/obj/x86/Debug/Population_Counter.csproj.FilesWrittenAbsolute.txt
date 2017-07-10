@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Dictionaries_12/Population_Counter/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Dictionaries_12/Population_Counter/bin/Debug/Population_Counter.pdb
+/Users/gabrielashirkova/Projects/Dictionaries_12/Population_Counter/bin/Debug/Population_Counter.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/Population_Counter/obj/x86/Debug/Population_Counter.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/Population_Counter/obj/x86/Debug/Population_Counter.pdb

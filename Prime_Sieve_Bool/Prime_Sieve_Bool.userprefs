@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D623C7D8-DF62-4C10-9C78-9D96F074D972}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prime_Sieve_Bool/Program.cs">
+    <Files>
+      <File FileName="Prime_Sieve_Bool/Program.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Prime__Sieve__Bool PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

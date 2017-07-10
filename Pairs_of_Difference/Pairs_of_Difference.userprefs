@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{40637BAF-218C-490F-8560-310DA3D537E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pairs_of_Difference/Program.cs">
+    <Files>
+      <File FileName="Pairs_of_Difference/Program.cs" Line="22" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>right</Value>
+          <Value>num[right]</Value>
+          <Value>pairs</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Pairs__of__Difference PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/TechFund_Exam/one/obj/x86/Debug/Pokemon_Dont_Go.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/TechFund_Exam/one/bin/Debug/one.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/one/bin/Debug/one.pdb
+/Users/gabrielashirkova/Projects/TechFund_Exam/one/obj/x86/Debug/one.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/one/obj/x86/Debug/one.pdb

@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/domashno_thursday/BPM/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/domashno_thursday/BPM/bin/Debug/BPM.pdb
+/Users/gabrielashirkova/Projects/domashno_thursday/BPM/bin/Debug/BPM.exe
+/Users/gabrielashirkova/Projects/domashno_thursday/BPM/obj/x86/Debug/BPM.exe
+/Users/gabrielashirkova/Projects/domashno_thursday/BPM/obj/x86/Debug/BPM.pdb

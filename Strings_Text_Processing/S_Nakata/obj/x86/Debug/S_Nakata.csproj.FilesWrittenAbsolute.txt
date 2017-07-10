@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Strings_Text_Processing/S_Nakata/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Strings_Text_Processing/S_Nakata/bin/Debug/S_Nakata.pdb
+/Users/gabrielashirkova/Projects/Strings_Text_Processing/S_Nakata/bin/Debug/S_Nakata.exe
+/Users/gabrielashirkova/Projects/Strings_Text_Processing/S_Nakata/obj/x86/Debug/S_Nakata.exe
+/Users/gabrielashirkova/Projects/Strings_Text_Processing/S_Nakata/obj/x86/Debug/S_Nakata.pdb

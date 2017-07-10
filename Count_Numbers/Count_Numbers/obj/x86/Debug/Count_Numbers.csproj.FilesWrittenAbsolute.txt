@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Count_Numbers/Count_Numbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Count_Numbers/Count_Numbers/bin/Debug/Count_Numbers.exe.mdb
+/Users/gabrielashirkova/Projects/Count_Numbers/Count_Numbers/bin/Debug/Count_Numbers.exe
+/Users/gabrielashirkova/Projects/Count_Numbers/Count_Numbers/obj/x86/Debug/Count_Numbers.exe
+/Users/gabrielashirkova/Projects/Count_Numbers/Count_Numbers/obj/x86/Debug/Count_Numbers.exe.mdb

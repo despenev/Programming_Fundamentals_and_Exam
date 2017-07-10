@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index_of_Letters", "Index_of_Letters\Index_of_Letters.csproj", "{2C0DB7AC-368D-41C0-B9DA-5D0350FFC2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0DB7AC-368D-41C0-B9DA-5D0350FFC2CF}.Debug|x86.ActiveCfg = Debug|x86
+		{2C0DB7AC-368D-41C0-B9DA-5D0350FFC2CF}.Debug|x86.Build.0 = Debug|x86
+		{2C0DB7AC-368D-41C0-B9DA-5D0350FFC2CF}.Release|x86.ActiveCfg = Release|x86
+		{2C0DB7AC-368D-41C0-B9DA-5D0350FFC2CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

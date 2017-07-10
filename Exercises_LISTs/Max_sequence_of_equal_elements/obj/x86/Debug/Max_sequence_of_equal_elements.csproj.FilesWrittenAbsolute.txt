@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exercises_LISTs/Max_sequence_of_equal_elements/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Exercises_LISTs/Max_sequence_of_equal_elements/bin/Debug/Max_sequence_of_equal_elements.pdb
+/Users/gabrielashirkova/Projects/Exercises_LISTs/Max_sequence_of_equal_elements/bin/Debug/Max_sequence_of_equal_elements.exe
+/Users/gabrielashirkova/Projects/Exercises_LISTs/Max_sequence_of_equal_elements/obj/x86/Debug/Max_sequence_of_equal_elements.exe
+/Users/gabrielashirkova/Projects/Exercises_LISTs/Max_sequence_of_equal_elements/obj/x86/Debug/Max_sequence_of_equal_elements.pdb

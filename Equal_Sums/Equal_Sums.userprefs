@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2DD17B0B-E3DA-4744-8048-1FF9B527A080}|Default">
+  <MonoDevelop.Ide.ItemProperties.Equal__Sums PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Equal_Sums/Program.cs">
+    <Files>
+      <File FileName="Equal_Sums/Program.cs" Line="10" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/Program.cs" relfile="Equal_Sums/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

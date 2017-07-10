@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Dictionaries_12/User_Logs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Dictionaries_12/User_Logs/bin/Debug/User_Logs.pdb
+/Users/gabrielashirkova/Projects/Dictionaries_12/User_Logs/bin/Debug/User_Logs.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/User_Logs/obj/x86/Debug/User_Logs.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/User_Logs/obj/x86/Debug/User_Logs.pdb

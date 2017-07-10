@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B4D3CF98-BAA7-408D-A3EE-9CF4F82BEE9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LIS_2/Program.cs">
+    <Files>
+      <File FileName="LIS_2/Program.cs" Line="88" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LIS__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B4C39F72-524F-4BE7-8EB7-384905B96EC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adjacent_Sum/Program.cs">
+    <Files>
+      <File FileName="Adjacent_Sum/Program.cs" Line="14" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Adjacent__Sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

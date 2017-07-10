@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/bin/Debug/Equal_Sums.exe.mdb
+/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/bin/Debug/Equal_Sums.exe
+/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/obj/x86/Debug/Equal_Sums.exe
+/Users/gabrielashirkova/Projects/Equal_Sums/Equal_Sums/obj/x86/Debug/Equal_Sums.exe.mdb

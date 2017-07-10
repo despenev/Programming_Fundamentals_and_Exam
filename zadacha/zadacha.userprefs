@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4D9783BC-D923-4CBC-ACDA-97F0F27141C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="zadacha/Program.cs">
+    <Files>
+      <File FileName="zadacha/Program.cs" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.zadacha PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0754ADD7-B2FC-422F-8739-49055F2E77D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Population__Counter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Population_Counter/Program.cs">
+    <Files>
+      <File FileName="Population_Counter/Program.cs" Line="28" Column="30" />
+      <File FileName="User_Logs/Program.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dictionaries_12" expanded="True">
+            <Node name="Fix_Emails" expanded="True" />
+            <Node name="Hands_of_Cards" expanded="True" />
+            <Node name="Mining_Task" expanded="True" />
+            <Node name="Population_Counter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="User_Logs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hands__of__Cards PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.User__Logs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mining__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

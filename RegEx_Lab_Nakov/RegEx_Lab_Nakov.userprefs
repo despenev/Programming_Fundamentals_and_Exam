@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{915CBFF2-9D21-415D-878E-10D228467CAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Match__Phonenumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Match_Hex/Program.cs">
+    <Files>
+      <File FileName="RegEx_Lab_Nakov/Program.cs" Line="20" Column="5" />
+      <File FileName="Match_Phonenumbers/Program.cs" Line="26" Column="1" />
+      <File FileName="Match_Hex/Program.cs" Line="27" Column="1" />
+      <File FileName="Match_Days/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegEx_Lab_Nakov" expanded="True">
+            <Node name="Match_Days" expanded="True" />
+            <Node name="Match_Hex" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Match_Phonenumbers" expanded="True" />
+            <Node name="RegEx_Lab_Nakov" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Match__Hex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RegEx__Lab__Nakov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

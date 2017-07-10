@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/bin/Debug/letters-in-txt.exe
+/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/bin/Debug/letters-in-txt.pdb
+/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/obj/x86/Debug/letters-in-txt.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/obj/x86/Debug/letters-in-txt.exe
+/Users/gabrielashirkova/Projects/letters-in-txt/letters-in-txt/obj/x86/Debug/letters-in-txt.pdb

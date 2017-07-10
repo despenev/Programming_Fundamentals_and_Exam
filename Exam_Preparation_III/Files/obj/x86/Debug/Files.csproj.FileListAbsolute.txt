@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Files/bin/Debug/Files.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Files/bin/Debug/Files.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Files/obj/x86/Debug/Files.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Files/obj/x86/Debug/Files.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Files/obj/x86/Debug/Files.pdb

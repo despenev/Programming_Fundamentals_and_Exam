@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Dictionaries_1/Phonebook/bin/Debug/Phonebook.exe
+/Users/gabrielashirkova/Projects/Dictionaries_1/Phonebook/bin/Debug/Phonebook.pdb
+/Users/gabrielashirkova/Projects/Dictionaries_1/Phonebook/obj/x86/Debug/Phonebook.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Dictionaries_1/Phonebook/obj/x86/Debug/Phonebook.exe
+/Users/gabrielashirkova/Projects/Dictionaries_1/Phonebook/obj/x86/Debug/Phonebook.pdb

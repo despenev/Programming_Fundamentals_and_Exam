@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8918EB86-8219-4490-82E6-F19DC6E19879}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02Karaoke/Program.cs">
+    <Files>
+      <File FileName="02Karaoke/Program.cs" Line="25" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/Program.cs" relfile="02Karaoke/Program.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02Karaoke PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

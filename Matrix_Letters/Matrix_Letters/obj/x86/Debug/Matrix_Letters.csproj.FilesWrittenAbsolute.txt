@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Matrix_Letters/Matrix_Letters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Matrix_Letters/Matrix_Letters/bin/Debug/Matrix_Letters.exe.mdb
+/Users/gabrielashirkova/Projects/Matrix_Letters/Matrix_Letters/bin/Debug/Matrix_Letters.exe
+/Users/gabrielashirkova/Projects/Matrix_Letters/Matrix_Letters/obj/x86/Debug/Matrix_Letters.exe
+/Users/gabrielashirkova/Projects/Matrix_Letters/Matrix_Letters/obj/x86/Debug/Matrix_Letters.exe.mdb

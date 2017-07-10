@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit/bin/Debug/Rage_Quit.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit/bin/Debug/Rage_Quit.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit/obj/x86/Debug/Rage_Quit.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit/obj/x86/Debug/Rage_Quit.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit/obj/x86/Debug/Rage_Quit.pdb

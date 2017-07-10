@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6AFE34A8-2B5A-4883-AD63-B337BC8ACA25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="desko/Program.cs">
+    <Files>
+      <File FileName="desko/Program.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.desko PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

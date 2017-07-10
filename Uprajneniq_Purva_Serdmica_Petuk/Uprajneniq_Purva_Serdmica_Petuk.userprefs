@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9BC57358-BCC0-4FFD-9FBB-BA1C4DD13DFE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="das/Program.cs">
+    <Files>
+      <File FileName="das/Program.cs" Line="31" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Uprajneniq_Purva_Serdmica_Petuk" expanded="True">
+            <Node name="das" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.das PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

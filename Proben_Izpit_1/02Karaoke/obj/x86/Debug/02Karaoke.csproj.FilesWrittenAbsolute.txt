@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/bin/Debug/02Karaoke.pdb
+/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/bin/Debug/02Karaoke.exe
+/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/obj/x86/Debug/02Karaoke.exe
+/Users/gabrielashirkova/Projects/Proben_Izpit_1/02Karaoke/obj/x86/Debug/02Karaoke.pdb

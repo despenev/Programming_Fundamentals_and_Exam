@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D3EFFC44-C964-4A7B-B6F9-7504CDE94411}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BPM/Program.cs">
+    <Files>
+      <File FileName="BPM/Program.cs" Line="18" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BPM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

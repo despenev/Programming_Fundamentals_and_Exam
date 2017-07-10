@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{113592FD-EE33-4F9E-928F-708FF8F84C60}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dictionaries/Program.cs">
+    <Files>
+      <File FileName="dictionaries/Program.cs" Line="16" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.dictionaries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Camera_View" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Extract_Emails" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Extract_Sentences_by_Keyword" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Weather" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Camera_View/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Camera_View/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Extract_Emails/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Extract_Emails/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Extract_Sentences_by_Keyword/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Extract_Sentences_by_Keyword/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Weather/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Weather/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

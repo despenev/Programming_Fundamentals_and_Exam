@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{48119721-FD4D-42D2-AB4F-8AC1025D33D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Book__Library__Modification PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Count__Working__Days PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teamwork_Project_2ndtr/Program.cs">
+    <Files>
+      <File FileName="Book_Library_2ndTake/Program.cs" Line="51" Column="3" />
+      <File FileName="Andrey_Billiards/Program.cs" Line="1" Column="1" />
+      <File FileName="trycatch/Program.cs" Line="77" Column="63" />
+      <File FileName="Book_Library/Program.cs" Line="12" Column="1" />
+      <File FileName="Mentor_Group/Program.cs" Line="40" Column="7" />
+      <File FileName="Teamwork_Project_2ndtr/Program.cs" Line="102" Column="1" />
+      <File FileName="Student_Groups/Program.cs" Line="43" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classes_and_Objects_Exercises" expanded="True">
+            <Node name="Advertisement_Message" expanded="True" />
+            <Node name="Andrey_Billiards" expanded="True" />
+            <Node name="Average_Grades" expanded="True" />
+            <Node name="AVG_grade_vladi" expanded="True" />
+            <Node name="Book_Library" expanded="True" />
+            <Node name="Book_Library_2ndTake" expanded="True" />
+            <Node name="Book_Library_Modification" expanded="True" />
+            <Node name="Books_vladi" expanded="True" />
+            <Node name="Circles_Intersect" expanded="True" />
+            <Node name="Count_Woring_Days_Vladi" expanded="True" />
+            <Node name="Count_Working_Days" expanded="True" />
+            <Node name="Lainariq" expanded="True" />
+            <Node name="Mentor_Group" expanded="True" />
+            <Node name="sino" expanded="True" />
+            <Node name="Student_Groups" expanded="True" />
+            <Node name="Teamwork_Project_2ndtr" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TeamWorkProjects" expanded="True" />
+            <Node name="trycatch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Average__Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.trycatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Advertisement__Message PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Teamwork__Project__2ndtr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sino PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lainariq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TeamWorkProjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mentor__Group PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Book__Library PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cukane_s_nakov", "cukane_s_nakov\cukane_s_nakov.csproj", "{DF16F34F-DE28-4263-88CB-2B9C9390C582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle", "rectangle\rectangle.csproj", "{57211E03-37D4-42C3-B74B-C677750D8289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sales", "sales\sales.csproj", "{28B61D50-00D4-4F96-8C72-C6E6D94E205B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF16F34F-DE28-4263-88CB-2B9C9390C582}.Debug|x86.ActiveCfg = Debug|x86
+		{DF16F34F-DE28-4263-88CB-2B9C9390C582}.Debug|x86.Build.0 = Debug|x86
+		{DF16F34F-DE28-4263-88CB-2B9C9390C582}.Release|x86.ActiveCfg = Release|x86
+		{DF16F34F-DE28-4263-88CB-2B9C9390C582}.Release|x86.Build.0 = Release|x86
+		{57211E03-37D4-42C3-B74B-C677750D8289}.Debug|x86.ActiveCfg = Debug|x86
+		{57211E03-37D4-42C3-B74B-C677750D8289}.Debug|x86.Build.0 = Debug|x86
+		{57211E03-37D4-42C3-B74B-C677750D8289}.Release|x86.ActiveCfg = Release|x86
+		{57211E03-37D4-42C3-B74B-C677750D8289}.Release|x86.Build.0 = Release|x86
+		{28B61D50-00D4-4F96-8C72-C6E6D94E205B}.Debug|x86.ActiveCfg = Debug|x86
+		{28B61D50-00D4-4F96-8C72-C6E6D94E205B}.Debug|x86.Build.0 = Debug|x86
+		{28B61D50-00D4-4F96-8C72-C6E6D94E205B}.Release|x86.ActiveCfg = Release|x86
+		{28B61D50-00D4-4F96-8C72-C6E6D94E205B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

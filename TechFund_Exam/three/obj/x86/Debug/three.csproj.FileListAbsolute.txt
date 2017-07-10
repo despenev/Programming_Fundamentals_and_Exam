@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/TechFund_Exam/three/bin/Debug/three.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/three/bin/Debug/three.pdb
+/Users/gabrielashirkova/Projects/TechFund_Exam/three/obj/x86/Debug/three.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/TechFund_Exam/three/obj/x86/Debug/three.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/three/obj/x86/Debug/three.pdb

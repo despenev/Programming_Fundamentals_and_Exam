@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit_SecondTake/bin/Debug/Rage_Quit_SecondTake.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit_SecondTake/bin/Debug/Rage_Quit_SecondTake.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit_SecondTake/obj/x86/Debug/Rage_Quit_SecondTake.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit_SecondTake/obj/x86/Debug/Rage_Quit_SecondTake.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Rage_Quit_SecondTake/obj/x86/Debug/Rage_Quit_SecondTake.pdb

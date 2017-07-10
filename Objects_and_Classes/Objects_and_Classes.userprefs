@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{57211E03-37D4-42C3-B74B-C677750D8289}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sales/Program.cs">
+    <Files>
+      <File FileName="cukane_s_nakov/Program.cs" Line="63" Column="40" />
+      <File FileName="rectangle/Program.cs" Line="16" Column="32" />
+      <File FileName="sales/Program.cs" Line="27" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Objects_and_Classes" expanded="True">
+            <Node name="cukane_s_nakov" expanded="True" />
+            <Node name="rectangle" expanded="True" />
+            <Node name="sales" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.rectangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.cukane__s__nakov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/Pokemon_Evolution/bin/Debug/Pokemon_Evolution.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/Pokemon_Evolution/bin/Debug/Pokemon_Evolution.pdb
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/Pokemon_Evolution/obj/x86/Debug/Pokemon_Evolution.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/Pokemon_Evolution/obj/x86/Debug/Pokemon_Evolution.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam_Part2/Pokemon_Evolution/obj/x86/Debug/Pokemon_Evolution.pdb

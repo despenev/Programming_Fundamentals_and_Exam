@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0A7D1B50-AD0E-4D84-A981-ACD11D1F3981}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="haide/Program.cs">
+    <Files>
+      <File FileName="haide/Program.cs" Line="21" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.haide PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

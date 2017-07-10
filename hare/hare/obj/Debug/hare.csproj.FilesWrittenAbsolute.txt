@@ -1,0 +1,12 @@
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.App.xaml
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.harePage.xaml
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.App.xaml.g.cs
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.harePage.xaml.g.cs
+/Users/gabrielashirkova/Projects/hare/hare/bin/Debug/hare.dll.mdb
+/Users/gabrielashirkova/Projects/hare/hare/bin/Debug/hare.dll
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.dll
+/Users/gabrielashirkova/Projects/hare/hare/obj/Debug/hare.dll.mdb
+/Users/gabrielashirkova/Projects/hare/hare/bin/Debug/Xamarin.Forms.Core.dll
+/Users/gabrielashirkova/Projects/hare/hare/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/gabrielashirkova/Projects/hare/hare/bin/Debug/Xamarin.Forms.Xaml.dll

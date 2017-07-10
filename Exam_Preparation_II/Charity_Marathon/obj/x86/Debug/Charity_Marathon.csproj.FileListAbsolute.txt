@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Charity_Marathon/bin/Debug/Charity_Marathon.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Charity_Marathon/bin/Debug/Charity_Marathon.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Charity_Marathon/obj/x86/Debug/Charity_Marathon.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Charity_Marathon/obj/x86/Debug/Charity_Marathon.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Charity_Marathon/obj/x86/Debug/Charity_Marathon.pdb

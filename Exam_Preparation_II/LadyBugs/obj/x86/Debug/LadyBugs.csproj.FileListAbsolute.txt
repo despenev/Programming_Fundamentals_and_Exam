@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/LadyBugs/bin/Debug/LadyBugs.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/LadyBugs/bin/Debug/LadyBugs.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/LadyBugs/obj/x86/Debug/LadyBugs.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/LadyBugs/obj/x86/Debug/LadyBugs.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/LadyBugs/obj/x86/Debug/LadyBugs.pdb

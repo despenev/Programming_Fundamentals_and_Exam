@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/negurmi/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/negurmi/bin/Debug/negurmi.pdb
+/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/negurmi/bin/Debug/negurmi.exe
+/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/negurmi/obj/x86/Debug/negurmi.exe
+/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/negurmi/obj/x86/Debug/negurmi.pdb

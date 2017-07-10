@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Nether_Realms/bin/Debug/Nether_Realms.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Nether_Realms/bin/Debug/Nether_Realms.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Nether_Realms/obj/x86/Debug/Nether_Realms.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Nether_Realms/obj/x86/Debug/Nether_Realms.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Nether_Realms/obj/x86/Debug/Nether_Realms.pdb

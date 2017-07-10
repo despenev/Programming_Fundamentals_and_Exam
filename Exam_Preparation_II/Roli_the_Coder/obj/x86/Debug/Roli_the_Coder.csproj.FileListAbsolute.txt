@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Roli_the_Coder/bin/Debug/Roli_the_Coder.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Roli_the_Coder/bin/Debug/Roli_the_Coder.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Roli_the_Coder/obj/x86/Debug/Roli_the_Coder.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Roli_the_Coder/obj/x86/Debug/Roli_the_Coder.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_II/Roli_the_Coder/obj/x86/Debug/Roli_the_Coder.pdb

@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Command_Interpreter/bin/Debug/Command_Interpreter.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Command_Interpreter/bin/Debug/Command_Interpreter.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Command_Interpreter/obj/x86/Debug/Command_Interpreter.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Command_Interpreter/obj/x86/Debug/Command_Interpreter.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Command_Interpreter/obj/x86/Debug/Command_Interpreter.pdb

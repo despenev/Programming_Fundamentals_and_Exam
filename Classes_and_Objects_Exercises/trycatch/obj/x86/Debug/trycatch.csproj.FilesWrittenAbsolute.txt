@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Classes_and_Objects_Exercises/trycatch/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Classes_and_Objects_Exercises/trycatch/bin/Debug/trycatch.pdb
+/Users/gabrielashirkova/Projects/Classes_and_Objects_Exercises/trycatch/bin/Debug/trycatch.exe
+/Users/gabrielashirkova/Projects/Classes_and_Objects_Exercises/trycatch/obj/x86/Debug/trycatch.exe
+/Users/gabrielashirkova/Projects/Classes_and_Objects_Exercises/trycatch/obj/x86/Debug/trycatch.pdb

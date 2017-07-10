@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C833855B-1CFB-4192-982E-2EBA90DED2D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextFilter/Program.cs">
+    <Files>
+      <File FileName="../Proben_Izpit_Gabi/03_Endurance_Race/Program.cs" Line="17" Column="4" />
+      <File FileName="Pallindromes/Program.cs" Line="25" Column="26" />
+      <File FileName="Strings_and_Text_Processing/Program.cs" Line="11" Column="43" />
+      <File FileName="TextFilter/Program.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strings_and_Text_Processing" expanded="True">
+            <Node name="Pallindromes" expanded="True" />
+            <Node name="Strings_and_Text_Processing" expanded="True" />
+            <Node name="TextFilter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielashirkova/Projects/Proben_Izpit_Gabi/03_Endurance_Race/Program.cs" line="21" column="71" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Strings__and__Text__Processing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pallindromes PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

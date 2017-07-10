@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S_Nakata", "S_Nakata\S_Nakata.csproj", "{D3213D01-D5F4-40FB-819F-0026D0EF8528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Naka", "Exception_Naka\Exception_Naka.csproj", "{18AC295D-23F6-41AC-87F0-F8F473890C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3213D01-D5F4-40FB-819F-0026D0EF8528}.Debug|x86.ActiveCfg = Debug|x86
+		{D3213D01-D5F4-40FB-819F-0026D0EF8528}.Debug|x86.Build.0 = Debug|x86
+		{D3213D01-D5F4-40FB-819F-0026D0EF8528}.Release|x86.ActiveCfg = Release|x86
+		{D3213D01-D5F4-40FB-819F-0026D0EF8528}.Release|x86.Build.0 = Release|x86
+		{18AC295D-23F6-41AC-87F0-F8F473890C66}.Debug|x86.ActiveCfg = Debug|x86
+		{18AC295D-23F6-41AC-87F0-F8F473890C66}.Debug|x86.Build.0 = Debug|x86
+		{18AC295D-23F6-41AC-87F0-F8F473890C66}.Release|x86.ActiveCfg = Release|x86
+		{18AC295D-23F6-41AC-87F0-F8F473890C66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

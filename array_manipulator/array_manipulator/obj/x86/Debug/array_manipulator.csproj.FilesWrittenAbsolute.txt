@@ -1,0 +1,1 @@
+/Users/gabrielashirkova/Projects/array_manipulator/array_manipulator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

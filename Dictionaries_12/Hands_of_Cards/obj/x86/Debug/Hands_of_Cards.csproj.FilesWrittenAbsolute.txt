@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Dictionaries_12/Hands_of_Cards/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Dictionaries_12/Hands_of_Cards/bin/Debug/Hands_of_Cards.pdb
+/Users/gabrielashirkova/Projects/Dictionaries_12/Hands_of_Cards/bin/Debug/Hands_of_Cards.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/Hands_of_Cards/obj/x86/Debug/Hands_of_Cards.exe
+/Users/gabrielashirkova/Projects/Dictionaries_12/Hands_of_Cards/obj/x86/Debug/Hands_of_Cards.pdb

@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/Match_Phonenumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/Match_Phonenumbers/bin/Debug/Match_Phonenumbers.pdb
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/Match_Phonenumbers/bin/Debug/Match_Phonenumbers.exe
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/Match_Phonenumbers/obj/x86/Debug/Match_Phonenumbers.exe
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/Match_Phonenumbers/obj/x86/Debug/Match_Phonenumbers.pdb

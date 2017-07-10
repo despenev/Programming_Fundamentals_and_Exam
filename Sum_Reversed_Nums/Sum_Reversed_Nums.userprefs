@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5C129B9E-6C33-4D14-8FDC-619B072242FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sum__Reversed__Nums PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sum_Reversed_Nums/Program.cs">
+    <Files>
+      <File FileName="Sum_Reversed_Nums/Program.cs" Line="21" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

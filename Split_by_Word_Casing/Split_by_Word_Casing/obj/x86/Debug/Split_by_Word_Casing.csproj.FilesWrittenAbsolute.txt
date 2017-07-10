@@ -1,0 +1,1 @@
+/Users/gabrielashirkova/Projects/Split_by_Word_Casing/Split_by_Word_Casing/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

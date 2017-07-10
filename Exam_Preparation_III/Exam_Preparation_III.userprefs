@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A5690697-2DF2-4654-9EFE-0966D067CC9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Rage__Quit__SecondTake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Softuni__Coffee__Orders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Command_Interpreter/Program.cs">
+    <Files>
+      <File FileName="Command_Interpreter_SecondTake/Program.cs" Line="31" Column="1" />
+      <File FileName="Command_Interpreter/Program.cs" Line="120" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam_Preparation_III" expanded="True">
+            <Node name="3" expanded="True" />
+            <Node name="Command_Interpreter" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Command_Interpreter_SecondTake" expanded="True" />
+            <Node name="Files" expanded="True" />
+            <Node name="Files_2" expanded="True" />
+            <Node name="Rage_Quit" expanded="True" />
+            <Node name="Rage_Quit_SecondTake" expanded="True" />
+            <Node name="Softuni_Coffee_Orders" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Command__Interpreter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Rage__Quit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Command__Interpreter__SecondTake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Files PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Files__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

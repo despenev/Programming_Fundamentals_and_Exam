@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Softuni_Coffee_Orders/bin/Debug/Softuni_Coffee_Orders.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Softuni_Coffee_Orders/bin/Debug/Softuni_Coffee_Orders.pdb
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Softuni_Coffee_Orders/obj/x86/Debug/Softuni_Coffee_Orders.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Softuni_Coffee_Orders/obj/x86/Debug/Softuni_Coffee_Orders.exe
+/Users/gabrielashirkova/Projects/Exam_Preparation_III/Softuni_Coffee_Orders/obj/x86/Debug/Softuni_Coffee_Orders.pdb

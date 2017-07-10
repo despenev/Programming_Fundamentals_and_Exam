@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A4CAF08D-FEAE-4536-98C9-26F095E4C60A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Softuni__Karaoke PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03__Endurance__Race PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Softuni_Karaoke/Program.cs">
+    <Files>
+      <File FileName="03_Endurance_Race/Program.cs" Line="27" Column="61" />
+      <File FileName="negurmi/Program.cs" Line="14" Column="1" />
+      <File FileName="Softuni_Karaoke/Program.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.negurmi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

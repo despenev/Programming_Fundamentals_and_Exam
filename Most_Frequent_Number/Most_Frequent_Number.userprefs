@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FAC25A9C-3AEC-47A0-A777-FD64663770D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Most_Frequent_Number/Program.cs">
+    <Files>
+      <File FileName="Most_Frequent_Number/Program.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Most__Frequent__Number PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

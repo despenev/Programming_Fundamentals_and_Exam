@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1D0BC26C-0B87-4406-8E13-E36CD6A19DE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sum_Big_Numbers/Program.cs">
+    <Files>
+      <File FileName="Strings_and_Text_Processsing_Excercises/Program.cs" Line="16" Column="4" />
+      <File FileName="Convert_from_BaseN_to_Base10/Program.cs" Line="21" Column="20" />
+      <File FileName="Unicode_Characters/Program.cs" Line="4" Column="19" />
+      <File FileName="Character_Multiplier/Program.cs" Line="11" Column="4" />
+      <File FileName="Magic_Exchangeable_Words/Program.cs" Line="53" Column="8" />
+      <File FileName="Sum_Big_Numbers/Program.cs" Line="9" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strings_and_Text_Processsing_Excercises" expanded="True">
+            <Node name="Character_Multiplier" expanded="True" />
+            <Node name="Convert_from_BaseN_to_Base10" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="Magic_Exchangeable_Words" expanded="True" />
+            <Node name="Strings_and_Text_Processsing_Excercises" expanded="True" />
+            <Node name="Sum_Big_Numbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Unicode_Characters" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Convert__from__BaseN__to__Base10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielashirkova/Projects/Strings_and_Text_Processsing_Excercises/Magic_Exchangeable_Words/Program.cs" relfile="Magic_Exchangeable_Words/Program.cs" line="58" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Magic__Exchangeable__Words PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strings__and__Text__Processsing__Excercises PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

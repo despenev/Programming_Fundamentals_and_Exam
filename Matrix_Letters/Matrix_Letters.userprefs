@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AF6BF24A-6FC0-420A-9460-53B5AFE46412}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_Letters/Program.cs">
+    <Files>
+      <File FileName="Matrix_Letters/Program.cs" Line="11" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Matrix__Letters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/hare.iOS.exe.mdb
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/hare.iOS.exe
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/hare.iOS.exe
+/Users/gabrielashirkova/Projects/hare/iOS/obj/iPhoneSimulator/Debug/hare.iOS.exe.mdb
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/hare.dll
+/Users/gabrielashirkova/Projects/hare/iOS/bin/iPhoneSimulator/Debug/hare.dll.mdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{979BA984-E68A-48A4-9F1A-47CEF9A93357}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BombNumbers/Program.cs">
+    <Files>
+      <File FileName="BombNumbers/Program.cs" Line="16" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.BombNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

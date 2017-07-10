@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_Letters", "Matrix_Letters\Matrix_Letters.csproj", "{AF6BF24A-6FC0-420A-9460-53B5AFE46412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6BF24A-6FC0-420A-9460-53B5AFE46412}.Debug|x86.ActiveCfg = Debug|x86
+		{AF6BF24A-6FC0-420A-9460-53B5AFE46412}.Debug|x86.Build.0 = Debug|x86
+		{AF6BF24A-6FC0-420A-9460-53B5AFE46412}.Release|x86.ActiveCfg = Release|x86
+		{AF6BF24A-6FC0-420A-9460-53B5AFE46412}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

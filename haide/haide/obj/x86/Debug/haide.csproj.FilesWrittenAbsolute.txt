@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/haide/haide/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/haide/haide/bin/Debug/haide.exe.mdb
+/Users/gabrielashirkova/Projects/haide/haide/bin/Debug/haide.exe
+/Users/gabrielashirkova/Projects/haide/haide/obj/x86/Debug/haide.exe
+/Users/gabrielashirkova/Projects/haide/haide/obj/x86/Debug/haide.exe.mdb

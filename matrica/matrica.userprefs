@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FB5A20EE-843D-416A-BA5C-46B62B2352A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="matrica/Program.cs">
+    <Files>
+      <File FileName="matrica/Program.cs" Line="30" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.matrica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

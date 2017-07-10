@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A64CB961-2DC0-49F0-A3E0-9C2414849FEF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Max__Sequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Max_Sequence/Program.cs">
+    <Files>
+      <File FileName="Max_Sequence/Program.cs" Line="44" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

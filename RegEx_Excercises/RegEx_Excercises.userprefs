@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8553CA0B-45F0-4239-BEF6-C77936C07BBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Extract__Sentences__by__Keyword PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/Program.cs">
+    <Files>
+      <File FileName="Extract_Emails/Program.cs" Line="1" Column="1" />
+      <File FileName="Extract_Sentences_by_Keyword/Program.cs" Line="5" Column="38" />
+      <File FileName="Camera_View/Program.cs" Line="9" Column="17" />
+      <File FileName="Weather/Program.cs" Line="14" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegEx_Excercises" expanded="True">
+            <Node name="Camera_View" expanded="True" />
+            <Node name="Extract_Emails" expanded="True" />
+            <Node name="Extract_Sentences_by_Keyword" expanded="True" />
+            <Node name="Weather" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Extract__Emails PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Camera__View PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

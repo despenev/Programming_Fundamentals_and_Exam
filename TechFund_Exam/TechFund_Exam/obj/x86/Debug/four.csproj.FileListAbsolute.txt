@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/TechFund_Exam/TechFund_Exam/bin/Debug/TechFund_Exam.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/TechFund_Exam/bin/Debug/TechFund_Exam.pdb
+/Users/gabrielashirkova/Projects/TechFund_Exam/TechFund_Exam/obj/x86/Debug/four.csproj.CoreCompileInputs.cache
+/Users/gabrielashirkova/Projects/TechFund_Exam/TechFund_Exam/obj/x86/Debug/TechFund_Exam.exe
+/Users/gabrielashirkova/Projects/TechFund_Exam/TechFund_Exam/obj/x86/Debug/TechFund_Exam.pdb

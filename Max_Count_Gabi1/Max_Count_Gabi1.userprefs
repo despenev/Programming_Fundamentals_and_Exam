@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C79385D2-4E38-4AD4-B183-211E2E35FACE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Max_Count_Gabi1/Program.cs">
+    <Files>
+      <File FileName="Max_Count_Gabi1/Program.cs" Line="34" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Max__Count__Gabi1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

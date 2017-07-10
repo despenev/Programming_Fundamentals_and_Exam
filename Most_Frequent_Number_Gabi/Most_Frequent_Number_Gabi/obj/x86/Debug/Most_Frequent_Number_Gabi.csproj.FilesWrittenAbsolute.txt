@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/Most_Frequent_Number_Gabi/Most_Frequent_Number_Gabi/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/Most_Frequent_Number_Gabi/Most_Frequent_Number_Gabi/bin/Debug/Most_Frequent_Number_Gabi.exe.mdb
+/Users/gabrielashirkova/Projects/Most_Frequent_Number_Gabi/Most_Frequent_Number_Gabi/bin/Debug/Most_Frequent_Number_Gabi.exe
+/Users/gabrielashirkova/Projects/Most_Frequent_Number_Gabi/Most_Frequent_Number_Gabi/obj/x86/Debug/Most_Frequent_Number_Gabi.exe
+/Users/gabrielashirkova/Projects/Most_Frequent_Number_Gabi/Most_Frequent_Number_Gabi/obj/x86/Debug/Most_Frequent_Number_Gabi.exe.mdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{472A01FE-FDAF-4752-ABCF-9A067842E266}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Roli_the_Coder/Program.cs">
+    <Files>
+      <File FileName="Charity_Marathon/Program.cs" Line="22" Column="38" />
+      <File FileName="LadyBugs/Program.cs" Line="103" Column="1" />
+      <File FileName="Nether_Realms/Program.cs" Line="5" Column="38" />
+      <File FileName="Roli_the_Coder/Program.cs" Line="91" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam_Preparation_II" expanded="True">
+            <Node name="Charity_Marathon" expanded="True" />
+            <Node name="LadyBugs" expanded="True" />
+            <Node name="Nether_Realms" expanded="True" />
+            <Node name="Roli_the_Coder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LadyBugs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Charity__Marathon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Nether__Realms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Roli__the__Coder PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

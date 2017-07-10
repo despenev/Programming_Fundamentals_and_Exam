@@ -1,0 +1,5 @@
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/RegEx_Lab_Nakov/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/RegEx_Lab_Nakov/bin/Debug/RegEx_Lab_Nakov.pdb
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/RegEx_Lab_Nakov/bin/Debug/RegEx_Lab_Nakov.exe
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/RegEx_Lab_Nakov/obj/x86/Debug/RegEx_Lab_Nakov.exe
+/Users/gabrielashirkova/Projects/RegEx_Lab_Nakov/RegEx_Lab_Nakov/obj/x86/Debug/RegEx_Lab_Nakov.pdb

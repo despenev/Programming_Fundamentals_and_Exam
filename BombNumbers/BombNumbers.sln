@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombNumbers", "BombNumbers\BombNumbers.csproj", "{979BA984-E68A-48A4-9F1A-47CEF9A93357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979BA984-E68A-48A4-9F1A-47CEF9A93357}.Debug|x86.ActiveCfg = Debug|x86
+		{979BA984-E68A-48A4-9F1A-47CEF9A93357}.Debug|x86.Build.0 = Debug|x86
+		{979BA984-E68A-48A4-9F1A-47CEF9A93357}.Release|x86.ActiveCfg = Release|x86
+		{979BA984-E68A-48A4-9F1A-47CEF9A93357}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
